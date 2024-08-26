@@ -273,7 +273,7 @@ conda activate lmdeploy
 python /root/internlm2_5.py
 ```
 
-终端输出结果，大模型回复正常
+终端输出结果，量化后的大模型回复正常
 
 ![QQ_1724692656250](assets/QQ_1724692656250.png)
 
